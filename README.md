@@ -1,6 +1,10 @@
 # ec2
 Go EC2 utility library
 
+**DEPRECATED**: please use the more general
+[netdiscover](https://github.com/CyCoreSystems/netdiscover) library and tool.
+
+
 ## Hostname/IP functions
 
   * `GetPublicIPv4`: retrieve the public IPv4 address of the current instance
